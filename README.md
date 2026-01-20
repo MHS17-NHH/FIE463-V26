@@ -92,6 +92,13 @@ conda env create -f environment.yml
 ```
 Note that you first need to change to the directory where `environment.yml` is located for this to work.
 
+If you don't know how to locate the `environment.yml` file on your system,
+you can also download it directly from GitHub and create the environment in one step:
+```bash
+curl -O https://raw.githubusercontent.com/richardfoltyn/FIE463-V26/main/environment.yml
+conda env create -f environment.yml
+```
+
 
 ## Additional resources
 
