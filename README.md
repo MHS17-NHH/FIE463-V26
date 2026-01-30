@@ -17,7 +17,7 @@ Course material for spring term 2026 (V26) — Author: Richard Foltyn
 |  3   | Tue, Jan 20 | `L` | Language & NumPy basics | [Notebook](lectures/lecture01/lecture01.ipynb), [PDF](lectures/lecture01/lecture01.pdf) | — |
 |      | Thu, Jan 22 | `W` | Language & NumPy basics | [Notebook](workshops/workshop01/workshop01.ipynb), [PDF](workshops/workshop01/workshop01.pdf) | [Notebook](workshops/workshop01/workshop01-solution.ipynb), [PDF](workshops/workshop01/workshop01-solution.pdf) |
 |  4   | Tue, Jan 27 | `L` | Control flow & list comprehensions | [Notebook](lectures/lecture02/lecture02.ipynb), [PDF](lectures/lecture02/lecture02.pdf) | —  |
-|      | Thu, Jan 29 | `W` | Control flow & list comprehensions | [Notebook](workshops/workshop02/workshop02.ipynb), [PDF](workshops/workshop02/workshop02.pdf) | TBA |
+|      | Thu, Jan 29 | `W` | Control flow & list comprehensions | [Notebook](workshops/workshop02/workshop02.ipynb), [PDF](workshops/workshop02/workshop02.pdf) | [Notebook](workshops/workshop02/workshop02-solution.ipynb), [PDF](workshops/workshop02/workshop02-solution.pdf) |
 |  5   | Tue, Feb 3  | `L` | Functions & modules | [Notebook](lectures/lecture03/lecture03.ipynb), [PDF](lectures/lecture03/lecture03.pdf) | —  |
 |      | Thu, Feb 5  | `W` | Functions & modules | [Notebook](workshops/workshop03/workshop03.ipynb), [PDF](workshops/workshop03/workshop03.pdf) | TBA |
 |  6   | Tue, Feb 10 | `L` | Random numbers & plotting | [Notebook](lectures/lecture04/lecture04.ipynb), [PDF](lectures/lecture04/lecture04.pdf) | —  |
