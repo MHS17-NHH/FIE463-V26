@@ -32,12 +32,12 @@ def my_argmax(x):
     
     :param x: Description
     '''
-    max_ind = 0
-    max_val = 0
-    for i in x:
-        if i > max_val:
-            max_val = i
-            max_ind = x[i]  # Doesn't work for numpy array
+    imax = 0
+    xmax = 0
+    for i, xi in enumerate(x[1:]):
+        if xi > xmax:
+            imax = i
+            xmax = xi  
             
 
-    return max_val, max_ind
+    return imax
