@@ -35,7 +35,7 @@ Course material for spring term 2026 (V26) — Author: Richard Foltyn
 |  9   | Tue, Mar 3  | `L` | Overlapping-generations models | [Notebook](lectures/lecture07/lecture07.ipynb), [PDF](lectures/lecture07/lecture07.pdf) | —  |
 |      | Thu, Mar 5  | `W` | VS Code & GitHub Copilot (applied to OLG) | [Notebook](workshops/workshop07/workshop07.ipynb), [PDF](workshops/workshop07/workshop07.pdf) | [Notebook](workshops/workshop07/solution/workshop07-solution.ipynb), [PDF](workshops/workshop07/solution/workshop07-solution.pdf) |
 |  10  | Tue, Mar 10 | `L` | Stochastic processes & wealth dynamics | [Notebook](lectures/lecture08/lecture08.ipynb), [PDF](lectures/lecture08/lecture08.pdf) | —  |
-|      | Thu, Mar 12 | `W` | Stochastic processes & wealth dynamics | [Notebook](workshops/workshop08/workshop08.ipynb), [PDF](workshops/workshop08/workshop08.pdf) | TBA |
+|      | Thu, Mar 12 | `W` | Stochastic processes & wealth dynamics | [Notebook](workshops/workshop08/workshop08.ipynb), [PDF](workshops/workshop08/workshop08.pdf) | [Notebook](workshops/workshop08/workshop08-solution.ipynb), [PDF](workshops/workshop08/workshop08-solution.pdf) |
 
 
 ### Part 3 — Working with financial data
