@@ -16,6 +16,9 @@
 
 ## Video tutorials
 
+### Visual Studio Code
+
+- [Using Live Share in VS Code to do group work](https://www.youtube.com/watch?v=fD-3lfb1dFs) [6 min]
 
 ### Terminal 
 
