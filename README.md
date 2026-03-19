@@ -43,7 +43,7 @@ Course material for spring term 2026 (V26) — Author: Richard Foltyn
 | Week | Date        | L/W | Topic | Notes & Exercises | Solutions |
 |------|-------------|-----|-------|-------------------|-----------|
 |  11  | Tue, Mar 17 | `L` | Data processing with Pandas | [Notebook](lectures/lecture09/lecture09.ipynb), [PDF](lectures/lecture09/lecture09.pdf) | —  |
-|      | Thu, Mar 19 | `W` | Data processing with Pandas | [Notebook](workshops/workshop09/workshop09.ipynb), [PDF](workshops/workshop09/workshop09.pdf) | TBA |
+|      | Thu, Mar 19 | `W` | Data processing with Pandas | [Notebook](workshops/workshop09/workshop09.ipynb), [PDF](workshops/workshop09/workshop09.pdf) | [Notebook](workshops/workshop09/workshop09-solution.ipynb), [PDF](workshops/workshop09/workshop09-solution.pdf) |
 |  12  | Tue, Mar 24 | `L` | Intro to scikit-learn | [Notebook](lectures/lecture10/lecture10.ipynb), [PDF](lectures/lecture10/lecture10.pdf) | —  |
 |      | Thu, Mar 26 | `W` | Intro to scikit-learn | [Notebook](workshops/workshop10/workshop10.ipynb), [PDF](workshops/workshop10/workshop10.pdf) | TBA |
 |  13  | Tue, Mar 31 | `L` | Regression models | [Notebook](lectures/lecture11/lecture11.ipynb), [PDF](lectures/lecture11/lecture11.pdf) | —  |
