@@ -50,7 +50,7 @@ Course material for spring term 2026 (V26) — Author: Richard Foltyn
 |      | Thu, Apr 2  | `W` | No workshop (Easter break) | — | — |
 |  14  | Tue, Apr 7  | `L` | Regression models | [Notebook](lectures/lecture11/lecture11.ipynb), [PDF](lectures/lecture11/lecture11.pdf) | —  |
 |      | Thu, Apr 9  | `L` | Classification models | [Notebook](lectures/lecture12/lecture12.ipynb), [PDF](lectures/lecture12/lecture12.pdf) | —  |
-|      | —           | `W`   | Regression & classification models | [Notebook](workshops/workshop12/workshop12.ipynb), [PDF](workshops/workshop12/workshop12.pdf) | TBA |
+|      | —           | `W`   | Regression & classification models | [Notebook](workshops/workshop12/workshop12.ipynb), [PDF](workshops/workshop12/workshop12.pdf) |  [Notebook](workshops/workshop12/workshop12-solution.ipynb), [PDF](workshops/workshop12/workshop12-solution.pdf) |
 
 
 
